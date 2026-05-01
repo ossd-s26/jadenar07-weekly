@@ -26,3 +26,5 @@ Replace the first row with your own contribution.
 |  April 21   | [Link](https://www.openstreetmap.org/node/13748770571/history#map=19/40.943059/-73.796629)    | OpenStreetMap Point |     Added point for a park with an open grassfield, swings and half court basketball court |
 | April 24    | [Link](https://www.openstreetmap.org/changeset/181769259)    | OpenStreetMap Node Edit | Added details such as religious affiliation, denomination, and grade levels to school
 | April 28    | [Link](https://www.openstreetmap.org/changeset/181967354)    | OpenStreetMap Node Edit | Updated 6 Metrotech data to contain more information about the building itself, NYU Tandon
+| April 30    | [Link](https://www.openstreetmap.org/changeset/182055240)    | OpenStreetMap Node Edit | Added small details about level and location
+| April 30    | [Link](https://www.openstreetmap.org/changeset/182055333)    | OpenStreetMap Node Edit | Added location, smoking and building tags
