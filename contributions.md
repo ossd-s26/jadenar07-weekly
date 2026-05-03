@@ -29,6 +29,8 @@ Replace the first row with your own contribution.
 | April 30    | [Link](https://www.openstreetmap.org/changeset/182055240)    | OpenStreetMap Node Edit | Added small details about level and location
 | April 30    | [Link](https://www.openstreetmap.org/changeset/182055333)    | OpenStreetMap Node Edit | Added location, smoking and building tags
 | May 2    | [Link](https://www.openstreetmap.org/changeset/182140938)    | OpenStreetMap Node Edit | Added site and levels
+| May 2    | [Link](https://www.openstreetmap.org/changeset/182167310)    | OpenStreetMap Node Edit | Added site and tags
 
 
-https://www.openstreetmap.org/changeset/182140938
+
+https://www.openstreetmap.org/changeset/182167310
