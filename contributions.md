@@ -31,6 +31,11 @@ Replace the first row with your own contribution.
 | May 2    | [Link](https://www.openstreetmap.org/changeset/182140938)    | OpenStreetMap Node Edit | Added site and levels
 | May 3    | [Link](https://www.openstreetmap.org/changeset/182167310)    | OpenStreetMap Node Edit | Added site and tags
 | May 5    | [Link](https://www.openstreetmap.org/changeset/182249068)    | OpenStreetMap Node Edit | Added site and tags
+| May 6    | [Link](https://www.openstreetmap.org/changeset/182319967#map=19/40.918845/-73.818096)  | OpenStreetMap Node Edit | Added levels and tags
+| May 7    | [Link](https://www.openstreetmap.org/changeset/182347624)    | OpenStreetMap Node Edit | Added website and note describing companies in the building
+
+
+
 
 
 
